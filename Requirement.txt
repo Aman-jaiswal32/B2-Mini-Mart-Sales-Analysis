@@ -1,0 +1,8 @@
+Required Libraries for python EDA
+
+pandas
+numpy
+matplotlib
+seaborn
+jupyter
+scipy
